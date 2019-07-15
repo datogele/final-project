@@ -7,6 +7,7 @@
     box-sizing: border-box;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 *:focus {
@@ -153,6 +154,7 @@ h1{
     font-size: 17px;
     margin-top: 40px;
     line-height: 34px;
+    margin-bottom: 20px;
 }
 .superteam-div{
     display: inline-block;
@@ -376,6 +378,7 @@ h1{
     text-align: center;
 }
 .open-p{
+    cursor: pointer;
 
 }
 .open-map{
